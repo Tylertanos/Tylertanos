@@ -5,6 +5,7 @@
 - 📫 How to reach me "sorry i do not allow face2face or email"
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Did you know MHI-12 is a project to send messages or files through bluetooth or wifi
+- Oh right did you know im basically interesting because of my age, i learned how to program at the age of 7, so try to guess my age.
 
 <!---
 Tylertanos/Tylertanos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
