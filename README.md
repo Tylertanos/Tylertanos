@@ -7,6 +7,8 @@
 - ⚡ Fun fact: Did you know MHI-12 is a project to send messages or files through bluetooth or wifi
 - Oh right did you know im basically interesting because of my age, i learned how to program at the age of 7, so try to guess my age.
 
+- Oh Right https://about-me-tyler.pages.dev/
+
 <!---
 Tylertanos/Tylertanos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
