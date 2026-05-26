@@ -12,8 +12,20 @@
      <img alt="Twitch Channel" title="Follow my Twitch Channel" src="https://img.shields.io/twitch/status/tylertanos?style=flat-square&logo=youtubegaming&logoColor=%235395FD&logoSize=2&color=%235395FD">
      </a>
 
+
+   <a href="https://www.artstation.com/tylertanos">
+     <img alt="ArtStation" title="Portfolio" src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=artstation&logoColor=%2313AFF0&logoSize=2&label=Artstation&color=%2313AFF0">
+     
+   </a>
+
+<p align="center"> Hallo:3  Im just a humble programmer... </p>
+
 <br><br>
 </p>
+
+<h2 align="center"> 🌐 Coding Languages | Technologies 🌐 </h2>
+
+<
 
 <!---
 Tylertanos/Tylertanos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
