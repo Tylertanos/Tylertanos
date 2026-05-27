@@ -18,7 +18,9 @@
      
    </a>
 
-<p align="center"> Hallo:3  Im just a humble programmer, sometimes i even program for fun... Heh:3 </p>
+<p align="center"> Hallo:3  Im just a humble programmer, sometimes i even program for fun... Heh:3
+
+  Oh by the way, for better code support, use Copilot > [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)</p>
 
 <br><br>
 </p>
@@ -66,6 +68,23 @@
 
 <a href="https://dotnet.microsoft.com/en-us/">
 <img alt=".NET" title=".NET Microsoft" src="https://img.shields.io/badge/.-%23000000?style=flat-square&logo=dotnet&logoColor=%23512BD4&logoSize=2">
+</a>
+
+<a href="https://www.roblox.com/users/6115888356/profile?friendshipSourceType=PlayerSearch">
+<img alt="Roblox Studio" title="Roblox Account" src="https://img.shields.io/badge/Studio-%2300A2FF?style=flat-square&logo=robloxstudio&logoColor=%2300A2FF&logoSize=2&label=Roblox&labelColor=%23000000&color=%2300A2FF">
+</a>
+
+<a href="https://developer.android.com/studio">
+<img alt="Android Studio" title="Android Studio Download" src="https://img.shields.io/badge/Studio-%233DDC84?style=flat-square&logo=androidstudio&logoColor=%233DDC84&logoSize=2&label=Android&labelColor=%23000000&color=%233DDC84">
+</a>
+
+<a href="https://visualstudio.microsoft.com/">
+<img alt="Ms Visual Studio" title="Microsoft Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white">
+</a>
+
+<a href="https://firebase.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=Cloud-SS-DR-Firebase-FY26-global-gsem-1713590&utm_content=text-ad&utm_term=KW_firebase&gclsrc=aw.ds&gad_source=1&gad_campaignid=23417478209&gbraid=0AAAAADpUDOjTdGtOPasSZyXDwL6BKFHO9&gclid=CjwKCAjwidXQBhAZEiwA4egw6MoheSXqP9CCxN0VnaAH2cvbWtQNY-uAzzosMBcGJ_yqy5H2w7vqCxoCb70QAvD_BwE">
+<img alt="Firebase" title=" Firebase Browser" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"
+
 </a>
 
 
