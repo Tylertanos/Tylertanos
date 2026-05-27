@@ -93,6 +93,15 @@
 
 
 
+
+<p align="center"
+<img width="288" height="288" alt="pfp" src="https://github.com/user-attachments/assets/8f90cb0d-d6de-4311-b585-31252e624975" />
+<img width="462" height="206" alt="giphy" src="https://github.com/user-attachments/assets/8ddc6124-6506-4f64-a9b2-464bf1a742bd" />
+</p>
+
+
+
+
 <!---
 Tylertanos/Tylertanos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
