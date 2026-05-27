@@ -41,6 +41,35 @@
   
 </a>
 
+
+<a href="https://f-droid.org/en/docs/Get_F-Droid/">
+<img alt="F-Droid" title="F-droid Version" src="https://img.shields.io/f-droid/v/org.fdroid.fdroid?include_prereleases&style=flat-square&logo=fdroid&logoColor=%231976D2&logoSize=2&label=F-Droid&labelColor=%23000000&color=%231976D2"">
+</a>
+
+<a href="https://www.w3schools.com/js/">
+<img alt="Javascript" title="Js Tutor" src="https://img.shields.io/badge/Script-%23F7DF1E?style=flat-square&logo=javascript&logoColor=%23F7DF1E&logoSize=2&label=Java&labelColor=%23000000&color=%23F7DF1E">
+
+
+</a>
+
+<a href="https://github.com/termux/termux-app">
+<img alt="Termux" title="Termux Install" src="https://img.shields.io/f-droid/v/com.termux?include_prereleases&style=flat-square&logo=termius&logoColor=%23000000&logoSize=2&label=Termux&labelColor=%230854C1&color=%23000000">
+</a>
+
+<a href="https://www.raspberrypi.org/">
+<img alt="Raspberry pi" title="Raspberry Pi Foundation" src="https://img.shields.io/badge/Pi-%23A22846?style=flat-square&logo=raspberrypi&logoColor=%23A22846&logoSize=2&label=Raspberry&labelColor=%23000000&color=%23A22846">
+</a>
+
+<a href="https://www.java.com/en/">
+<img alt="Java" title="Java Website" src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square">
+</a>
+
+<a href="https://dotnet.microsoft.com/en-us/">
+<img alt=".NET" title=".NET Microsoft" src="https://img.shields.io/badge/.-%23000000?style=flat-square&logo=dotnet&logoColor=%23512BD4&logoSize=2">
+</a>
+
+
+
 <!---
 Tylertanos/Tylertanos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
