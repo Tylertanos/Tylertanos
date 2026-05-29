@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/terminal-ui.svg" width="100%" />
+</p>
 <h1 align="center">👾 Hello! My Name Is Tyler Tanos 👾</h1>
 
 
