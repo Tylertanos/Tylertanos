@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/terminal-ui.svg" width="100%" />
 </p>
-<h1 align="center">👾 Hello! My Name Is Tyler Tanos 👾</h1>
+<h1 align="center">👾 Hello! My Name Is 𝚃𝚢𝚕𝚎𝚛 𝚃𝚊𝚗𝚘𝚜 👾</h1>
 
 
 <p align="center">
@@ -23,7 +23,9 @@
 
 <p align="center"> Hallo:3  Im just a humble programmer, sometimes i even program for fun... Heh:3
 
-  Oh by the way, for better code support, use Copilot > [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)</p>
+  Oh by the way, for better code support, use Copilot > [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
+  
+  Also search me up if you wanna know more, or go to this link: https://about-me-tyler.dev.pages</p>
 
 <br><br>
 </p>
